@@ -1,0 +1,6 @@
+nickname = "botnickname"
+nick_password = "password"
+server = "chat.freenode.net"
+channels = [ "#funchat" ]
+use_ssl = true
+port = 6697
