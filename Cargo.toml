@@ -1,0 +1,7 @@
+[package]
+name = "corrosion"
+version = "0.1.0"
+authors = ["Patrice Blin <dev@patriceblin.com>"]
+
+[dependencies]
+irc = "0.13.6"
